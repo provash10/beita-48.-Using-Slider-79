@@ -1,0 +1,24 @@
+48. Using Slider 79
+<link href="css/style.css" rel="stylesheet"/>
+============================================
+Using a Slider:
+1. Call jQuery for Slider
+2. Basic JavaScript Code
+3. Call stylesheet
+4. Put Images/Content Correctly
+5. Test and Enjoy!!!
+***** Slider Gulo jQuery use kore create kora hoi.
+
+***** download nivo slider >>>Download Nivo Slider GitHub
+>>> 
+Nivo Slider - The Most Awesome jQuery Image Slider
+
+GitHub
+https://github.com › Codeinwp › Nivo-Slider-jQuery
+
+==================================================
+
+
+
+
+
